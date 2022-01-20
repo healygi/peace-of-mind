@@ -8,3 +8,24 @@ This site is intended for busy working people who want to take some time for the
 
 ### Existing Features
 
+Navigation Bar (bullet points and images)
+
+The landing pages image (bullet points and images), go through all sections of your webiste with images and information. 
+
+### Features Left to Implement
+
+## Testing
+
+### Validator Testing
+
+### Unfixed Bugs
+
+## Deployment
+
+## Credits
+
+### Content
+
+### Media
+
+
