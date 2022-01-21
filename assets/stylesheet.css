@@ -53,16 +53,17 @@ body {
   
   #footer {
     background-color: #cc9600;
-    color: #ffffff;
     padding: 25px;
     text-align: center;
     font-size: xx-large;
     display: flex;
     justify-content: space-between;
   }
+
+ i {
+    color: #ffffff;
+  }
   
-
-
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
