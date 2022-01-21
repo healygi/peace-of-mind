@@ -54,9 +54,9 @@ body {
   .footer {
     background-color: #cc9600;
     color: #ffffff;
+    padding: 10px;
     text-align: center;
-    font-size: 12px;
-    padding: 15px;
+    font-size: xx-large;
   }
 
 
