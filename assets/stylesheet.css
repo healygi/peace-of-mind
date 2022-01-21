@@ -1,8 +1,22 @@
+/* {
+    margin: 0;
+    padding: 0;
+    border: none;
+} */
+
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: whitesmoke;
 }
 
+.logo {
+    background-color: burlywood;
+    color: #ffffff;
+    padding: 15px;
+  }
+    
+
+/*}
 #hero-image {
     background: url("../assets/images/hero-image4.jpg") no-repeat center center;
     width: 100%;
@@ -12,13 +26,15 @@ body {
 
     /* animates zoom effect on loading page */
 
-    animation-name: hero-zoom;
+   /* animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-}
+    */
+
+
 
 /* creates the level of zoom for hero image */
-
+/*
 @keyframes hero-zoom {
     from{
         transform: scale(1);
@@ -27,3 +43,4 @@ body {
         transform: scale(1.1);
     }
 }
+*/
