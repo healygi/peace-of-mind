@@ -20,11 +20,11 @@ video {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: rgb(213,142,160);
+    background-color:#dbb5c9; 
 }
 
 .logo {
-    background-color: rgb(30, 136, 167);
+    background-color: rgb(212,139,157);
     color: #ffffff;
     padding: 15px;
   }
@@ -38,17 +38,17 @@ body {
   .menu li {
     padding: 8px;
     margin-bottom: 7px;
-    background-color: rgb(30, 136, 167);
+    background-color: rgb(212,139,157);
     color: #ffffff;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   }
   
   .menu li:hover {
-    background-color:rgb(30, 136, 167);
+    background-color:rgb(212,139,157);
   }
   
   .aside {
-    background-color:rgb(30, 136, 167);
+    background-color:rgb(212,139,157);
     padding: 15px;
     color: #ffffff;
     text-align: center;
@@ -57,7 +57,7 @@ body {
   }
   
   #footer {
-    background-color: rgb(30, 136, 167);
+    background-color: rgb(212,139,157);
     padding: 25px;
     text-align: center;
     font-size: xx-large;
