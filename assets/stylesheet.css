@@ -119,6 +119,21 @@ p {
     height: 400px;
 }
 
+ /* Container holding the image and the text */
+ .container {
+  position: relative;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: #d9aac4;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 
     /* animates zoom effect on loading page */
