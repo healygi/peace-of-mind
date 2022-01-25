@@ -141,8 +141,8 @@ p {
  position: relative;
   background-color: #d9aac4;
   color: black;
-  bottom: 420px;
-  width: 280px;
+  bottom: 425px;
+  width: 290px;
 }
 
 /* Centered text for quote */
@@ -156,15 +156,15 @@ p {
   padding-right: 20px;
 }
 
-/*
-.contact {
-  /*position: absolute;*/
-  /*bottom: 120px;*/
-  /*right: 20px; */
- /* background-color: #d9aac4;
-  color: black; 
- /* padding-left: 20px; */
-  /*padding-right: 20px;*/
+#contactinfo h2 {
+  font-size: 30px;
+}
+
+#contactinfo ul {
+  font-size: 15px;
+  line-height: 150%;
+}
+
 
 
 
