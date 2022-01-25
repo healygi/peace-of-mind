@@ -73,6 +73,8 @@ https://quotesupdate.com/sadhguru-quotes/ (quote for text box)
 https://imagecolorpicker.com/en (to get colour pallet for website)
 
 https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5 (single page navigation)
+
+https://www.w3schools.com/Css/css_positioning.asp (position of nav bar)
 ### Content
 
 ### Media
