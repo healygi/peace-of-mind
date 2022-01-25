@@ -34,6 +34,15 @@ p {
     padding: 15px;
   }
 
+  .logo ul {
+    display: flex;
+    list-style-type: none;
+    position: absolute;
+    top: 80px;
+    right: 15px;
+  }
+
+
   .menu ul {
     list-style-type: none;
     margin: 0;
@@ -119,7 +128,7 @@ p {
     height: 400px;
 }
 
- /* Container holding the image and the text */
+ /* Container holding the image and the text boxes */
  .container {
   position: relative;
 }
@@ -136,23 +145,4 @@ p {
 }
 
 
-    /* animates zoom effect on loading page */
-
-   /* animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-    */
-
-
-
-/* creates the level of zoom for hero image */
-/*
-@keyframes hero-zoom {
-    from{
-        transform: scale(1);
-    }
-    to{
-        transform: scale(1.1);
-    }
-}
-*/
+ 
