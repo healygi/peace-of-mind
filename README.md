@@ -11,7 +11,8 @@ Peace Of Mind offers a sign up to have a free session with a "meditation guru" w
 
 1. Featured at the top of the page, I went for a simple navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
 2. I decided to only have two links as my website is clearly laid out and doesnt really need any more than two. I went with Contact Us and Meet our Gurus.
-3. The Navigation is clear and concise and makes the different sections of the website easy to discover. 
+3. The Navigation is clear and concise and makes the different sections of the website easy to discover. Contact Us is at the bottom of the page so I thought best to place a link for this at the top of the page. 
+4. Our Gurus link is at the top of the page and links to a section of the website that gives descriptions of the website. I thought this was best to make clearer navigation particularly - for mobile phone navigation. 
 
 # The Header
 
