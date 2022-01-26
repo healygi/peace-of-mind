@@ -23,11 +23,20 @@ body {
     background-color:#dbb5c9; 
 }
 
+.info p {
+  background-color: rgb(212,139,157);
+  padding: 15px;
+  text-align: left;
+  line-height: 150%;
+  font-size: 15px;
+}
+
 p {
   font-size: large;
   text-align: center;
   line-height: 150%;
 }
+
 .logo {
     background-color: rgb(212,139,157);
     color: #ffffff;
@@ -51,12 +60,6 @@ p {
     right: 15px;
   }
 
-  /* displays corresponding to click */
-
- /* .page {
-    display: none;
-  } */
-  
   .menu ul {
     list-style-type: none;
     margin: 0;
