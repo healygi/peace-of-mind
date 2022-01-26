@@ -9,8 +9,8 @@ Peace Of Mind offers a sign up to have a free session with a "meditation guru" w
 ## Features
 # Navigation:
 
-1. Featured at the top of the page, I went with a burger navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
-2. When clicked the navigation shows: Home, Contact Us, Sign Up. When selected each link to different sections of the same page. 
+1. Featured at the top of the page, I went for a simple navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
+2. I decided to only have two links as my website is clearly laid out and doesnt really need 
 3. The Navigation is clear and concise and makes the different sections of the website easy to discover. 
 
 # The Header
