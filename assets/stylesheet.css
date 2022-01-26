@@ -34,6 +34,13 @@ p {
     padding: 15px;
   }
 
+  /* Spacing of nav elements */
+
+  .logo li {
+    padding-left: 1em;
+
+  }
+
   /* Position Nav Bar */
 
   .logo ul {
