@@ -51,6 +51,13 @@ p {
     right: 15px;
   }
 
+  /* displays corresponding to click */
+
+  .page {
+    display: none;
+
+  }
+
 
   .menu ul {
     list-style-type: none;
