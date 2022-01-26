@@ -166,8 +166,11 @@ p {
   right: 0px;
   background-color: #d9aac4;
   color: black;
-  padding-left: 20px;
-  padding-right: 20px;
+}
+
+.centered p {
+  text-align: center;
+  font-size: 25px;
 }
 
 #contactinfo h2 {
