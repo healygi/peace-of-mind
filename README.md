@@ -20,53 +20,71 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 ## The Header
 
 1. The header contains the title of my webiste and my two navigation links. 
-2. This section also contains an "About Us" section which clearly defines what the site is and what the company has to offer. 
-3. This section conatins a "sign up" section providing the user with clear information to sign up for their free session. 
+2. I used Monteserrat font as it was recommended as a 'yoga type' font family. 
+3. My inital name for the website was 'Peace of Mind.' I decided to go with 'Peace + Mind' as I felt it was more in line with my minialist design. Also later I can use the icon of a peace sign and brain to resemble the name of my website which I thought was good design and visually pleasing for the user. 
 
-# About Us
+![This is an image](/assets/images/header.png)
 
-1. The About Us section asks the user key questions to entice the user in, depending on whether they answer yes or no. 
+## About Us
+
+1. The About Us section lets the user know what 'Peace + Mind' is all about. It lets the user know what the company offers and that their studio is open both online and in person. 
 2. It clearly explains what Peace + Mind has to off and who should use this service. 
-3. This section also informs the user to "join us" for their free one to one session with an expert guru who will take them on their spirtitual journey. Leaving a nice segway for the user to sign up. 
 4. This section is very straight-foward and straight to the point- following inline with my minialist, flow design. 
 5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read easier on the eye. 
 
-# Sign Up Form
+## Information side bar
 
-1. The join us section contains a form to collect detals from the user so they can sign up and claim their free session with an expert guru. 
+1. The information side bar asks the user 'What can we help you with?'
+2. It is visually pleasing with the use of icons and pink text boxes. 
+3. Another text box is placed under these asking the user key questions to entice them into joining 'Peace + Mind'
+
+## Our Gurus side bar
+
+1. The Guru side bar lists the practitioners that work at 'Peace + Mind.'
+2. It lists there names and qualifications each separated by a line.
+3. I used this deisgn as it is minimalist and gets straight to the point. The user can read what practitioners work there and what they then might be interested in. 
+
+## Join Us Form
+
+1. The join us section contains a form to collect details from the user so they can sign up and claim their free session with an expert guru. 
 2. The form collects the users first name, second name, and email adddress. 
 3. The join us form is valuable to the user as it gives them the ability to sign up to Peace + Mind and claim their free session. 
+4. The form is programmed to be valid so that a person has to enter an email in the email box and nothing else will be accepted.  
 
-# Contact Section
+## Contact Section
 
-1. I created a contact section that contains an email address and phone number, social media links are placed in the footer. 
-2. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
+1. I created a contact section that contains an email address, phone number and locaton of yoga studio. 
+2. Social media links are placed in the footer with a clickable link. 
+3. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
+
+# Features Left to Implement
+
+## Header
+
+1. I would like to get rid of this navigation and implement a burger menu. I like the current navigation but I think a burger menu would look more aesthetically pleasing and allow the site to be more fluid. 
+
+## Information Side Bar
+
+1. I would like to make each list item clickable links to take the user to more information on each item explaining how important meditation and yoga is for sleep, stress, focus etc. 
+2. I would also like these boxes to hover when the mouse is placed over them. 
+
+## Our Gurus Side Bar
+
+1. I would like each expert guru to have their own profile so when clicked it would take the user to their profile where they could learn more about each practitioner. 
+
+## Color Pallet
+
+1. In hindsight the color pallet of my site is quite feminine. As this is my target audience I did not think it would be an issue but potentially if I were to redesign the website a more gender neutral color may be a better choice. 
 
 
-### Existing Features
-
-Navigation Bar (bullet points and images)
-
-The landing pages image (bullet points and images), go through all sections of your webiste with images and information. 
-
-### Features Left to Implement
-
-## Testing
+# Testing
 
 1. I tested that this site works in different browsers: Chrome, Firefox, Safari.
 2. I confirmed that this project is responsive, looks good and functions on all standard screen sizes.
-3. I confirm my sections- navigaion, header, about us, sign up, contact text are all readable and easy to understand. 
+3. I confirm my sections- navigaion, header, about us, join us, contact text are all readable and easy to understand. 
 4. I confirmed that my join us form works: requires entries in every field, will only accept an email in the email field, and the submit button works. 
 
-### Bugs
-
-1. When I deployed my project to GitHub Pages I discovered my project was broken, the links to the other files (CSS and videos) did not work. 
-2. I discovered this was because I had used absoulte file paths such as this code : (screenshot of code)
-3. Removing the starting / fixed the problem. 
-4. Another bug I came across was my site wasn't displaying - only the directory listing displayed. 
-5. I discovered (with the help of tutor mentoring) that my index.html was nested in my assets folder and so had to be moved to the root directory for it to display properly. 
-
-### Validator Testing
+## Validator Testing
 
 ## HTML
 - No errors were returned when passing my site through the officical W3C validator.
@@ -77,11 +95,19 @@ The landing pages image (bullet points and images), go through all sections of y
 ## Accessibility
 - The colors and fonts chosen in the making of this site are easy to read and accessible by running through lighthouse in devtools
 
-### Unfixed Bugs
+# Bugs
+
+1. When I deployed my project to GitHub Pages I discovered my project was broken, the links to the other files (CSS and videos) did not work. 
+2. I discovered this was because I had used absoulte file paths such as this code : (screenshot of code)
+3. Removing the starting / fixed the problem. 
+4. Another bug I came across was my site wasn't displaying - only the directory listing displayed. 
+5. I discovered (with the help of tutor mentoring) that my index.html was nested in my assets folder and so had to be moved to the root directory for it to display properly. 
+
+## Unfixed Bugs
 
 - No unfixed bugs.
 
-## Deployment
+# Deployment
 
 - This site was deployed to GitHub pages. The steps to deploy are as follows:
 1. In the GitHub repository, go to Settings tab.
@@ -89,9 +115,9 @@ The landing pages image (bullet points and images), go through all sections of y
 3. Once selected go to source and select the branch to main and folder to root. 
 4. Once this is done, the page will provide the link to the completed website. 
 
-## Credits
+# Credits
 
-### Content
+## Content
 
 - I used the following sites to help in the creation of my website. 
 
@@ -113,10 +139,10 @@ https://www.w3schools.com/Css/css_positioning.asp (position of nav bar)
 
 Tutor mentoring helped me with deployment.
 
-My own mentor Antonio Rodrigues for feedback and support. 
+My mentor Antonio Rodrigues for feedback and support. 
 
 
-### Media
+## Media
 
 - I used the following sites to help in the creation of my site. 
 
