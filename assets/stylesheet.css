@@ -44,6 +44,46 @@ p {
   padding: 15px;
 }
 
+/* Navigation */
+
+.logo li {
+  padding-left: 1em;
+}
+
+.logo li a {
+  padding: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  background-color: rgb(30,136, 167);
+  color:white;
+  text-decoration: unset;
+}
+
+.logo ul {
+  display: flex;
+  list-style-type: none;
+  position: absolute;
+  top: 75px;
+  right: 10px;
+} 
+
+/* Information boxes with icons */
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: rgb(212, 139, 157);
+  color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+} 
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+} 
+
+/* Our Gurus */
+
 .aside {
   background-color: rgb(212, 139, 157);
   padding: 15px;
@@ -51,6 +91,8 @@ p {
   text-align: center;
   font-size: 14px;
 }
+
+/* footer */
 
 #footer {
   background-color: rgb(212, 139, 157);
@@ -64,6 +106,8 @@ p {
 i {
   color: #ffffff;
 }
+
+/* Media Queries */
 
 /* For mobile phones: */
 [class*="col-"] {
