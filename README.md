@@ -1,25 +1,27 @@
 # Peace + Mind
 
-Welcome to Peace + Mind a website catered to find your peace of mind. This project hopes to give the user a tranquil, easy flow user experience to find their inner peace. It hopes to also have the ability for the user to sign up to yoga/meditation classes and be able to contact for further information. 
+Welcome to Peace + Mind a website catered to find your peace of mind. This project hopes to give the user a tranquil, easy flow experience to find their inner peace, packed with information about the company and why the user should sign up. This website offers a free one to one session with an expert guru who will cater to the needs of the user specifically via a join us form. It also contains contact information (mobile, address, email) for further information. 
 
-This site is intended for busy working people who want to take some time for themselves for some self-care to improve their focus, reduce stress or anxiety, improve quailty of sleep, make new friends or self-improvement. This site will be useful to the target audience as it offers a range of classes and concepts they can get involved in to achieve their self-care goals. 
+This site is intended for busy working people who want to take some time for themselves for some self-care to improve their focus, reduce stress or anxiety, improve quailty of sleep or general self-improvement. This site will be useful to the target audience as it offers a range of classes and concepts they can get involved in to achieve their self-care goals. 
 
-Peace Of Mind offers a sign up to have a free session with a "meditation guru" where they will assign classes and tasks to suit the user and their busy schedule. 
+Peace + Mind offers a 'join us' form to have a free session with a "meditation guru" where they will assign classes and tasks to suit the user and their busy schedule. 
 
-## Features
-# Navigation:
+# Features
+## Navigation:
 
 1. Featured at the top of the page, I went for a simple navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
-2. I decided to only have two links as my website is clearly laid out and doesnt really need any more than two. I went with Contact Us and Meet our Gurus.
-3. The Navigation is clear and concise and makes the different sections of the website easy to discover. Contact Us is at the bottom of the page so I thought best to place a link for this at the top of the page. 
-4. Our Gurus link is at the top of the page and links to a section of the website that gives descriptions of the website. I thought this was best to make clearer navigation particularly - for mobile phone navigation. 
+2. I decided to only have two links as my website is clearly laid out and it seemed unnecessary to have more. I went with 'Contact Us' and 'Join Us' as they are located at the bottom of the page and so the user can nagivate to it faster if needed. 
+3. The Navigation is clear and concise and makes the different sections of the website easy to discover. Contact information is at the bottom of the page so I thought best to place a link for this at the top of the page. 
+4. The 'Join Us' form is at the bottom of the page so I thought link at the top of the page would make good practise. 
+5. I thought this poisitoning was best to make clearer navigation particularly - for mobile phone navigation. 
+6. I placed padding around the links to give it a 'button-feel' and make it more distinctive in the header. I gave it the color blue to match the hero image at the bottom of the page for some color contrast. 
 
-# The Header
 
-1. The header contains the majority of my webiste, designed so to make my website responsive.
-2. The header contains the title of my webiste its logo and asks the key questions "what can we do for you?" listing what the company has to offer for people suffering from anxiety, stress ect.  
-3. This section also contains an "About Us" section which clearly defines what the site is and what the company has to offer. 
-4. This section conatins a "sign up" section providing the user with clear information to sign up for their free session. 
+## The Header
+
+1. The header contains the title of my webiste and my two navigation links. 
+2. This section also contains an "About Us" section which clearly defines what the site is and what the company has to offer. 
+3. This section conatins a "sign up" section providing the user with clear information to sign up for their free session. 
 
 # About Us
 
