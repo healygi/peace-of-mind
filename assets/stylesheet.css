@@ -36,7 +36,7 @@ p {
   text-align: center;
   line-height: 150%;
 }
-/* Style Header */
+/* Header */
 
 .logo {
   background-color: rgb(212, 139, 157);
@@ -90,6 +90,53 @@ p {
   color: #ffffff;
   text-align: center;
   font-size: 14px;
+}
+
+#hero-image {
+  background: url("../assets/images/image.jpg") no-repeat center center;
+  background-repeat: no-repeat, repeat;
+  width: 100%;
+  height: 400px;
+}
+
+/* Container holding the image and the text boxes */
+.container {
+  position: relative;
+}
+
+/* Container holding contact info */
+
+#contactinfo {
+  position: relative;
+  background-color: #d9aac4;
+  color: black;
+  bottom: 425px;
+  width: 290px;
+}
+
+/* Centered text for quote */
+.centered {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: #d9aac4;
+  color: black;
+}
+
+.centered p {
+  text-align: center;
+  font-size: 25px;
+}
+
+#contactinfo h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+#contactinfo ul {
+  font-size: 20px;
+  line-height: 150%;
+  list-style-type: none;
 }
 
 /* footer */
@@ -218,49 +265,6 @@ i {
   }
 }
 
-#hero-image {
-  background: url("../assets/images/image.jpg") no-repeat center center;
-  background-repeat: no-repeat, repeat;
-  width: 100%;
-  height: 400px;
-}
 
-/* Container holding the image and the text boxes */
-.container {
-  position: relative;
-}
 
-/* Container holding contact info */
 
-#contactinfo {
-  position: relative;
-  background-color: #d9aac4;
-  color: black;
-  bottom: 425px;
-  width: 290px;
-}
-
-/* Centered text for quote */
-.centered {
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
-  background-color: #d9aac4;
-  color: black;
-}
-
-.centered p {
-  text-align: center;
-  font-size: 25px;
-}
-
-#contactinfo h2 {
-  font-size: 30px;
-  text-align: center;
-}
-
-#contactinfo ul {
-  font-size: 20px;
-  line-height: 150%;
-  list-style-type: none;
-}
