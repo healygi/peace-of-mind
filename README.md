@@ -23,7 +23,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 2. I used Monteserrat font as it was recommended as a 'yoga type' font family. 
 3. My inital name for the website was *'Peace of Mind.'* I decided to go with *'Peace + Mind'* as I felt it was more in line with my minialist design. Also later I can use the icon of a *'peace sign'* and *'brain'* to resemble the name of my website which I thought was good design and visually pleasing for the user. 
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/header.png)
 
 ## About Us
 
@@ -32,7 +32,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 4. This section is very straight-foward and straight to the point- following inline with my minialist, flow design. 
 5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read and was easier on the eye. 
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/about.png)
 
 ## Information side bar
 
@@ -40,7 +40,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 2. It is visually pleasing with the use of icons and pink text boxes. 
 3. Another text box is placed under these asking the user key questions to entice them into joining *'Peace + Mind'*
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/info.png)
 
 ## Our Gurus side bar
 
@@ -48,7 +48,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 2. It lists there names and qualifications each separated by a line.
 3. I used this deisgn as it is minimalist and gets straight to the point. The user can read what practitioners work there and what they then might be interested in. 
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/gurus.png)
 
 ## Join Us Form
 
@@ -58,7 +58,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 4. The form is programmed to be valid so that a person has to enter a vaid email in the email box, a name in each name box and nothing else will be accepted.  
 5. The submit buttom works and stores the data. 
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/join.png)
 
 
 ## Contact Section
@@ -69,17 +69,21 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 4. I felt it ran in function and style with the information box. 
 5. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
 
+![This is an image](/assets/images/contact.png)
+
 ## Photo Grid
 
 1. I implemented a photo grid to display to the user a gallery of calming images and people doing different yoga poses. 
 2. I felt this was visually pleasing and encouraged the user to get involved. 
+
+![This is an image](/assets/images/photo-grid.png)
 
 ## Footer
 
 1. Social media links are placed in the footer with a clickable link. 
 2. I spaced out each social media platform for a more visually pleasing site. 
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/footer.png)
 
 # Features Left to Implement
 
@@ -119,7 +123,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 ## Accessibility
 - The colors and fonts chosen in the making of this site are easy to read and accessible by running through lighthouse in devtools
 
-![This is an image](/assets/images/)
+![This is an image](/assets/images/lighthouse.png)
 
 # Bugs
 
