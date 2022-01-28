@@ -147,6 +147,14 @@ i {
   width: 100%;
 }
 
+@media only screen and (min-width: 560px) {
+
+header {
+font-size: x-small;
+}
+} 
+
+
 @media only screen and (min-width: 600px) {
 
   /* For tablets: */
