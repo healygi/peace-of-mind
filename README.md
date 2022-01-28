@@ -136,19 +136,21 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 
 https://www.w3schools.com/css/css_rwd_intro.asp (CSS Responsive Grid)
 
-https://www.w3schools.com/tags/att_video_autoplay.asp 
-
-https://get-color.com/image/ (to get colour of images)
+https://www.w3schools.com/tags/att_video_autoplay.asp (implementing the video)
 
 https://www.w3schools.com/cssref/css3_pr_justify-content.asp (to justify footer images)
 
-https://www.w3schools.com/howto/howto_css_image_text_blocks.asp (to place text box over image)
+https://www.w3schools.com/howto/howto_css_image_text_blocks.asp (to layer text box over image)
 
 https://imagecolorpicker.com/en (to get colour pallet for website)
 
 https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5 (single page navigation)
 
 https://www.w3schools.com/Css/css_positioning.asp (position of nav bar)
+
+https://www.the-elbowroom.com/ (to get content for my site)
+
+https://www.calm.com/ (for inspiration)
 
 Tutor mentoring helped me with deployment.
 
@@ -162,4 +164,6 @@ My mentor Antonio Rodrigues for feedback and support.
 https://quotesupdate.com/sadhguru-quotes/ (quote for text box)
 
 All images were taken from Pexels.
+
+All icons were taken from Font Awesome. 
 
