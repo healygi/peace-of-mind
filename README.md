@@ -15,13 +15,13 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 - I decided to only have two links as my website is clearly laid out and it seemed unnecessary to have more. I went with *'Contact Us'* and *'Join Us'* as they are located at the bottom of the page and so the user can navigate to it faster if needed. 
 - The navigation is clear and concise and makes the different sections of the website easier to discover. Contact information is at the bottom of the page so I thought best to place a link to this at the top of the page. 
 - The *'Join Us'* form is at the bottom of the page so I thought a link at the top of the page would make good practise. 
-- I thought this positioning was best to make clearer navigation gation particularly - for mobile phone navigation. 
+- I thought this positioning was best to make clearer navigation particularly - for mobile phone navigation. 
 - I placed padding around the links to give it a 'button-feel' and make it more distinctive in the header. I gave it the color white to contrast with the heavy pink pallet.  
 
 
 ## The Header
 
-- The header contains the title of my website and my two navigation links. 
+- The header contains the title of my website, its slogan and my two navigation links. 
 - I used Monteserrat font as it was recommended as a 'yoga type' font family. 
 - My original name for my website was *'Peace of Mind.'* I decided to go with *'Peace + Mind'* as I felt it was more in line with my minimalist design. Also later I can use the icon of a *'peace sign'* and *'brain'* to resemble the name of my website which I thought was a good design and visually pleasing for the user. 
 
@@ -30,7 +30,7 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 ## About Us
 
 - The About Us section lets the user know what *'Peace + Mind'* is all about. It lets the user know what the company offers and that their studio is open both online and in person. 
-- It clearly explains what *Peace + Mind* has to off and who should use this service. 
+- It clearly explains what *Peace + Mind* has to offer and who should use this service. 
 - This section is very straight-forward and direct- following in line with my minimalist, flow design. 
 - I centered the text and gave it 150% for line spacing as I felt this made it clearer to read and was easier on the eye. 
 
@@ -132,8 +132,8 @@ Peace + Mind offers a *'join us'* form to have a free session with a *"meditatio
 # Bugs
 
 - When I deployed my project to GitHub Pages I discovered my project was broken, the links to the other files (CSS and videos) did not work. 
-- I discovered this was because I had used absolute file paths such as this code : (screenshot of code)
-- Removing the starting / fixed the problem. 
+- I discovered this was because I had used absolute file paths.
+- Removing the starting '/' fixed the problem. 
 - Another bug I came across was my site wasn't displaying - only the directory listing displayed. 
 - I discovered (with the help of tutor mentoring) that my index.html was nested in my assets folder and so had to be moved to the root directory for it to display properly. 
 
@@ -170,8 +170,6 @@ https://imagecolorpicker.com/en (to get colour pallet for website)
 https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5 (single page navigation)
 
 https://www.w3schools.com/Css/css_positioning.asp (position of nav bar)
-
-https://www.the-elbowroom.com/ (to get content for my site)
 
 https://www.calm.com/ (for inspiration)
 
