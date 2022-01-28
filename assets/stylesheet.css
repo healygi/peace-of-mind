@@ -151,6 +151,23 @@ i {
 header {
 font-size: 13px;
 }
+.contact-box {
+  font-size: 10px;
+}
+
+}
+
+@media only screen and (max-width: 750px) {
+
+  header {
+    font-size: 13px;
+    }
+    .contact-box {
+      font-size: 8px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
 
   /* For tablets: */
   .col-s-1 {
@@ -271,7 +288,4 @@ font-size: 13px;
     max-width: 100%;
   }
 }
-
-
-
 
