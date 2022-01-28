@@ -163,8 +163,6 @@ https://www.w3schools.com/tags/att_video_autoplay.asp (implementing the video)
 
 https://www.w3schools.com/cssref/css3_pr_justify-content.asp (to justify footer images)
 
-https://www.w3schools.com/howto/howto_css_image_text_blocks.asp (to layer text box over image)
-
 https://imagecolorpicker.com/en (to get colour pallet for website)
 
 https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5 (single page navigation)
