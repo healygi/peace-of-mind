@@ -1,72 +1,85 @@
 # Peace + Mind
 
-Welcome to Peace + Mind a website catered to find your peace of mind. This project hopes to give the user a tranquil, easy flow experience to find their inner peace, packed with information about the company and why the user should sign up. This website offers a free one to one session with an expert guru who will cater to the needs of the user specifically via a join us form. It also contains contact information (mobile, address, email) for further information. 
+Welcome to Peace + Mind a website catered to find your peace of mind. This project hopes to give the user a tranquil, easy flow experience to find their inner peace, packed with information about the company and why the user should sign up. This website offers a free one to one session with an expert guru who will cater to the needs of the user specifically via a *'Join Us'* form. It also contains contact information (mobile, address, email) for further information. 
 
-This site is intended for busy working people who want to take some time for themselves for some self-care to improve their focus, reduce stress or anxiety, improve quailty of sleep or general self-improvement. This site will be useful to the target audience as it offers a range of classes and concepts they can get involved in to achieve their self-care goals. 
+This site is intended for busy working people who want to take some time for themselves for some self-care to improve their focus, reduce stress or anxiety, improve quailty of sleep or general self-improvement. This site will be useful to the target audience (young working women) as it offers a range of classes and concepts they can get involved in to achieve their self-care goals. 
 
-Peace + Mind offers a 'join us' form to have a free session with a "meditation guru" where they will assign classes and tasks to suit the user and their busy schedule. 
+Peace + Mind offers a *'join us'* form to have a free session with a *"meditation guru"* where they will assign classes and tasks to suit the user and their busy schedule. 
 
 # Features
 ## Navigation:
 
-1. Featured at the top of the page, I went for a simple navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
-2. I decided to only have two links as my website is clearly laid out and it seemed unnecessary to have more. I went with 'Contact Us' and 'Join Us' as they are located at the bottom of the page and so the user can nagivate to it faster if needed. 
-3. The Navigation is clear and concise and makes the different sections of the website easy to discover. Contact information is at the bottom of the page so I thought best to place a link for this at the top of the page. 
-4. The 'Join Us' form is at the bottom of the page so I thought link at the top of the page would make good practise. 
+1. Featured at the top of the page, I went for a simple one page navigation bar. I choose this style as my website has a minamilst quality and I wanted the least amount of noise as possible.
+2. I decided to only have two links as my website is clearly laid out and it seemed unnecessary to have more. I went with *'Contact Us'* and *'Join Us'* as they are located at the bottom of the page and so the user can nagivate to it faster if needed. 
+3. The navigation is clear and concise and makes the different sections of the website easy to discover. Contact information is at the bottom of the page so I thought best to place a link for this at the top of the page. 
+4. The *'Join Us'* form is at the bottom of the page so I thought a link at the top of the page would make good practise. 
 5. I thought this poisitoning was best to make clearer navigation particularly - for mobile phone navigation. 
-6. I placed padding around the links to give it a 'button-feel' and make it more distinctive in the header. I gave it the color blue to match the hero image at the bottom of the page for some color contrast. 
+6. I placed padding around the links to give it a 'button-feel' and make it more distinctive in the header. I gave it the color white to contrast with the heavy pink pallet.  
 
 
 ## The Header
 
 1. The header contains the title of my webiste and my two navigation links. 
 2. I used Monteserrat font as it was recommended as a 'yoga type' font family. 
-3. My inital name for the website was 'Peace of Mind.' I decided to go with 'Peace + Mind' as I felt it was more in line with my minialist design. Also later I can use the icon of a peace sign and brain to resemble the name of my website which I thought was good design and visually pleasing for the user. 
+3. My inital name for the website was *'Peace of Mind.'* I decided to go with *'Peace + Mind'* as I felt it was more in line with my minialist design. Also later I can use the icon of a *'peace sign'* and *'brain'* to resemble the name of my website which I thought was good design and visually pleasing for the user. 
 
-![This is an image](/assets/images/header.png)
+![This is an image](/assets/images/)
 
 ## About Us
 
-1. The About Us section lets the user know what 'Peace + Mind' is all about. It lets the user know what the company offers and that their studio is open both online and in person. 
-2. It clearly explains what Peace + Mind has to off and who should use this service. 
+1. The About Us section lets the user know what *'Peace + Mind'* is all about. It lets the user know what the company offers and that their studio is open both online and in person. 
+2. It clearly explains what *Peace + Mind* has to off and who should use this service. 
 4. This section is very straight-foward and straight to the point- following inline with my minialist, flow design. 
-5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read easier on the eye. 
+5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read and was easier on the eye. 
 
-![This is an image](/assets/images/about.png)
+![This is an image](/assets/images/)
 
 ## Information side bar
 
-1. The information side bar asks the user 'What can we help you with?'
+1. The information side bar asks the user *'What can we help you with?'*
 2. It is visually pleasing with the use of icons and pink text boxes. 
-3. Another text box is placed under these asking the user key questions to entice them into joining 'Peace + Mind'
+3. Another text box is placed under these asking the user key questions to entice them into joining *'Peace + Mind'*
 
-![This is an image](/assets/images/info.png)
+![This is an image](/assets/images/)
 
 ## Our Gurus side bar
 
-1. The Guru side bar lists the practitioners that work at 'Peace + Mind.'
+1. The Guru side bar lists the practitioners that work at *'Peace + Mind.'*
 2. It lists there names and qualifications each separated by a line.
 3. I used this deisgn as it is minimalist and gets straight to the point. The user can read what practitioners work there and what they then might be interested in. 
 
-![This is an image](/assets/images/gurus.png)
+![This is an image](/assets/images/)
 
 ## Join Us Form
 
 1. The join us section contains a form to collect details from the user so they can sign up and claim their free session with an expert guru. 
 2. The form collects the users first name, second name, and email adddress. 
-3. The join us form is valuable to the user as it gives them the ability to sign up to Peace + Mind and claim their free session. 
-4. The form is programmed to be valid so that a person has to enter an email in the email box and nothing else will be accepted.  
+3. The join us form is valuable to the user as it gives them the ability to sign up to *Peace + Mind* and claim their free session. 
+4. The form is programmed to be valid so that a person has to enter a vaid email in the email box, a name in each name box and nothing else will be accepted.  
+5. The submit buttom works and stores the data. 
 
-![This is an image](/assets/images/join.png)
+![This is an image](/assets/images/)
 
 
 ## Contact Section
 
 1. I created a contact section that contains an email address, phone number and locaton of yoga studio. 
-2. Social media links are placed in the footer with a clickable link. 
-3. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
+2. I placed this in boxes under the information bar.
+3. I noticed there was obvious space on this side of the page and decided to place the comtact box there. 
+4. I felt it ran in function and style with the information box. 
+5. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
 
-![This is an image](/assets/images/contact.png)
+## Photo Grid
+
+1. I implemented a photo grid to display to the user a gallery of calming images and people doing different yoga poses. 
+2. I felt this was visually pleasing and encouraged the user to get involved. 
+
+## Footer
+
+1. Social media links are placed in the footer with a clickable link. 
+2. I spaced out each social media platform for a more visually pleasing site. 
+
+![This is an image](/assets/images/)
 
 # Features Left to Implement
 
@@ -106,7 +119,7 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 ## Accessibility
 - The colors and fonts chosen in the making of this site are easy to read and accessible by running through lighthouse in devtools
 
-![This is an image](/assets/images/lighthouse.png)
+![This is an image](/assets/images/)
 
 # Bugs
 
@@ -132,7 +145,9 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 
 ## Content
 
-- I used the following sites to help in the creation of my website. 
+### I used the following sites to help in the creation of my website:
+
+
 
 https://www.w3schools.com/css/css_rwd_intro.asp (CSS Responsive Grid)
 
@@ -161,7 +176,9 @@ My mentor Antonio Rodrigues for feedback and support.
 
 ## Media
 
-- I used the following sites to help in the creation of my site. 
+### I used the following sites to help in the creation of my site:
+
+
 
 https://quotesupdate.com/sadhguru-quotes/ (quote for text box)
 
