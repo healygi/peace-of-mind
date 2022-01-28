@@ -32,17 +32,23 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 4. This section is very straight-foward and straight to the point- following inline with my minialist, flow design. 
 5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read easier on the eye. 
 
+![This is an image](/assets/images/about.png) <img src="/assets/images/about.png" width="100" height="100">
+
 ## Information side bar
 
 1. The information side bar asks the user 'What can we help you with?'
 2. It is visually pleasing with the use of icons and pink text boxes. 
 3. Another text box is placed under these asking the user key questions to entice them into joining 'Peace + Mind'
 
+![This is an image](/assets/images/info.png)
+
 ## Our Gurus side bar
 
 1. The Guru side bar lists the practitioners that work at 'Peace + Mind.'
 2. It lists there names and qualifications each separated by a line.
 3. I used this deisgn as it is minimalist and gets straight to the point. The user can read what practitioners work there and what they then might be interested in. 
+
+![This is an image](/assets/images/gurus.png)
 
 ## Join Us Form
 
@@ -51,11 +57,16 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 3. The join us form is valuable to the user as it gives them the ability to sign up to Peace + Mind and claim their free session. 
 4. The form is programmed to be valid so that a person has to enter an email in the email box and nothing else will be accepted.  
 
+![This is an image](/assets/images/join.png)
+
+
 ## Contact Section
 
 1. I created a contact section that contains an email address, phone number and locaton of yoga studio. 
 2. Social media links are placed in the footer with a clickable link. 
 3. It encourages the user to get in contact and gives them the ability to find and contact Peace + Mind if they need to. 
+
+![This is an image](/assets/images/contact.png)
 
 # Features Left to Implement
 
