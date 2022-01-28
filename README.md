@@ -177,8 +177,7 @@ Some content from  *'about us'* section was taken from https://www.the-elbowroom
 
 Tutor mentoring helped me with deployment.
 
-My mentor Antonio Rodrigues for feedback and support. 
-
+My mentor Antonio Rodrigues for feedback, support and advice. 
 
 ## Media
 
