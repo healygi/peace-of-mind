@@ -147,10 +147,10 @@ i {
   width: 100%;
 }
 
-@media only screen and (min-width: 560px) {
+@media only screen and (max-width: 560px) {
 
 header {
-font-size: x-small;
+font-size: small;
 }
 } 
 
