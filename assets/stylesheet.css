@@ -36,12 +36,13 @@ p {
   text-align: center;
   line-height: 150%;
 }
+
 /* Header */
 
 .logo {
   background-color: rgb(212, 139, 157);
   color: #ffffff;
-  padding: 15px;
+  padding: 50px;
 }
 
 /* Navigation */
