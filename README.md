@@ -32,7 +32,7 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 4. This section is very straight-foward and straight to the point- following inline with my minialist, flow design. 
 5. I centered the text and gave it 150% for line spacing as I felt this made it clearer to read easier on the eye. 
 
-![This is an image](/assets/images/about.png) <img src="/assets/images/about.png" width="100" height="100">
+![This is an image](/assets/images/about.png)
 
 ## Information side bar
 
@@ -105,6 +105,8 @@ Peace + Mind offers a 'join us' form to have a free session with a "meditation g
 
 ## Accessibility
 - The colors and fonts chosen in the making of this site are easy to read and accessible by running through lighthouse in devtools
+
+![This is an image](/assets/images/lighthouse.png)
 
 # Bugs
 
