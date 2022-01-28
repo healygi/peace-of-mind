@@ -44,7 +44,6 @@ p {
   color: #ffffff;
   padding: 50px;
 }
-
 /* Navigation */
 
 .logo li {
@@ -57,8 +56,6 @@ p {
   background-color: white;
   color: black;
   text-decoration: unset;
-  top: 175px;
-  left: 10px;
 }
 
 .logo ul {
