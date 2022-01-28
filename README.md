@@ -152,6 +152,8 @@ https://www.the-elbowroom.com/ (to get content for my site)
 
 https://www.calm.com/ (for inspiration)
 
+https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp (photo grid)
+
 Tutor mentoring helped me with deployment.
 
 My mentor Antonio Rodrigues for feedback and support. 
